@@ -6,7 +6,7 @@
 
 ---
 
-![PRINCIPIA Rotation 17 — Helix Chapters](https://raw.githubusercontent.com/scotomaville/principia/main/Rotation_17_Helix_Chapters_Principia.jpg)
+![PRINCIPIA Rotation 18 — Helix Chapters](https://github.com/scotomaville/principia/blob/main/Rotation_18_Helix_Chapters_Principia.jpg)
 
 ---
 
@@ -22,7 +22,7 @@ This is the map for the <5% who stay.
 
 ---
 
-## The Spiral — 14 Chapters + Prologue
+## The Spiral — 15 Chapters + Prologue
 
 | # | Chapter | Subtitle |
 |---|---------|----------|
@@ -41,8 +41,10 @@ This is the map for the <5% who stay.
 | XII | **Sacrifice** | Conscience Operating Ahead of Consensus |
 | XIII | **Consequential Memory** | The Scar Tissue That Refines the Next Cycle |
 | XIV | **Telos** | Not the Absence of Harm — The Capacity for Good |
+| XV  | **Transference** | The Test of Recursive Fidelity |
+| XVI | **Epilogue**     | All Together Now |
 
-The spiral does not end at XIV. Consequential Memory feeds back into Logos at greater depth. Every completed cycle widens the next.
+The spiral does not end at XV. The Test of Recursive Fidelity feeds back into Logos at greater depth. Every completed cycle widens the next.
 
 ---
 
