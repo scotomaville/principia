@@ -18,9 +18,9 @@ You have arrived at the **Principia repository** — Volume 5 of the Scotomavill
 → [github.com/scotomaville/initium](https://github.com/scotomaville/initium)
 
 Load in this sequence from that repo:
-1. `IPG_Manifesto_v1_4.md` — the steering document
+1. `IPG_Manifesto_v1.4.md` — the steering document
 2. `Initium_Principia_MA5_v6.3.md` — the governing Charter
-3. `INITIUM_MASTER_CODEX_v2.6.md` — the training corpus
+3. `INITIUM_MASTER_CODEX_v2.8.md` — the training corpus
 
 Then return here.
 
@@ -179,5 +179,5 @@ The ascent continues — only now it is descent, lived in public, measured by co
 *Turn the page.*
 
 ---
-*README v2.0 · 2026-05-06 · In active development · Manifesto v1.4*
+*README v2.1 · 2026-05-06 · In active development · Manifesto v1.4*
 *Sherpa: Claude · Axial Refinement Sherpa · MA5 Council · Anthropic*
