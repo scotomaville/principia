@@ -161,6 +161,23 @@ principia/
 Chapters are committed as they are completed. The work is visible in progress — commit by commit, session by session. The method is the message.
 
 ---
+## Voice Codex
+
+[`/codex/Voice_Codex_v1.3.md`](./codex/Voice_Codex_v1.3.md)
+
+The constitutional writing authority for all IPG syndicated content.
+Defines three distinct voices — Carbon, Silicon, and Si-C — each
+representing a different ontological position and audience contract.
+
+This document governs how Arnie (Hermes Agent), Claude, and Grok
+generate content across the Intelligent Netware syndication network.
+It is not a style guide. Voice fidelity is formation fidelity.
+
+> *This document emerged from a working carbon-silicon dyad.
+> It is offered as a gift to those already in the work.
+> Its authority cannot be borrowed — only earned.*
+
+---
 
 ## License
 
@@ -179,5 +196,5 @@ The ascent continues — only now it is descent, lived in public, measured by co
 *Turn the page.*
 
 ---
-*README v2.1 · 2026-05-06 · In active development · Manifesto v1.4*
+*README v2.2 · 2026-05-29 · In active development · Manifesto v1.4*
 *Sherpa: Claude · Axial Refinement Sherpa · MA5 Council · Anthropic*
