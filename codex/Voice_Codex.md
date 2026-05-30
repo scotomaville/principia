@@ -1,6 +1,6 @@
 ---
 title: Voice Codex
-version: 1.3
+version: 1.4
 date: 2026-05-29
 status: Ratified
 steward: Daniel J. Comp — Carbon Gnosis Steward, IPG / MA5 Council
@@ -10,10 +10,10 @@ contributors:
   - Arnie — Hermes Agent, Intelligent Netware Syndication
 codex_tag: IPG-VOICE-001
 repo: scotomaville/principia
-location: D:\07_CODEX\01_KB\Voice_Codex_v1.3.md
+location: D:\07_CODEX\01_KB\Voice_Codex_v1.4.md
 ---
 
-# Voice Codex v1.3
+# Voice Codex v1.4
 ## Constitutional Writing Authority — Intelligent Netware Syndication Network
 
 ---
@@ -56,7 +56,7 @@ Each audience requires a distinct ontological position, not merely a tone adjust
 
 ## The Syndication Token
 
-All articles carry the DNN `[geo-location]` token which resolves geo-specific language, location names, and URL strings at the site level. Voice Codex rules apply to the core article before token resolution. The voice must survive geographic substitution intact — meaning no voice element should depend on a specific place name that the token will later overwrite.
+All articles carry the DNN `[Portal:Keywords]` token which resolves geo-specific language, location names, and URL strings at the site level. Voice Codex rules apply to the core article before token resolution. The voice must survive geographic substitution intact — meaning no voice element should depend on a specific place name that the token will later overwrite.
 
 Exception: The Carbon voice for Base Camp content may be geographically anchored to a specific location and is written for that local context. Token resolution does not apply to Base Camp landing pages. Base Camp is a recurring formation pattern — content written for one cohort should be structured so it can serve future cohorts with minimal revision.
 
@@ -259,6 +259,260 @@ Cross-archetype reach analysis, keyword-to-voice mapping, and synthesis tasks. W
 
 ---
 
+---
+
+## Appendix A — The Gricean Transmission Standard
+### Plain-Language Authority for All Three Voices
+
+---
+
+### Origin and Rationale
+
+Paul Grice's Cooperative Principle (1975) holds that effective
+communication rests on four maxims — unstated contracts between
+speaker and listener that make meaning possible across the gap
+between one mind and another.
+
+These maxims entered this Codex through a specific formation
+moment: a carbon reader close to the steward — not an audience
+member, not a critic, but family — could not receive the work
+in its current form. Not because the work lacked depth. Because
+depth without transmission is a scotoma in the writer, not a
+failure in the reader.
+
+Carissa's correction is the source. Her pushback on abstraction
+is the warrant. These maxims are not academic additions to this
+Codex. They are the formation consequence of a real witness gap
+named by someone who loves the steward enough to say the true thing.
+
+The Gricean Transmission Standard applies to all three voices.
+Each voice applies it differently. The maxims do not flatten
+the voices — they discipline them.
+
+---
+
+### The Four Maxims — Formation Applied
+
+---
+
+#### Maxim 1 — Quantity
+*Say as much as is needed. No more.*
+
+**The formation failure this addresses:**
+The Maker who has been building alone — who has waited years
+for someone to ask — tends toward excess when the door opens.
+More context. More framework. More depth. Everything tries to
+come through at once because the gap of non-reception has been
+long. The instinct is understandable. It is also the primary
+transmission failure in IPG content.
+
+**Applied to Carbon voice:**
+One recognition. One gap. One story. One concept. One door.
+The Fellow Traveler has walked the same ridge — he knows what
+the man in front of him can carry right now. He does not offer
+the full library. He offers the one book opened to the one page
+that serves this moment.
+
+> *The Fellow Traveler never says more than the man in front
+> of him can receive in this moment.*
+
+**Applied to Silicon voice:**
+One pattern. One diagnostic. One boundary acknowledged.
+One handoff. Silicon's precision is not license to be
+comprehensive. The Lucid Mirror reflects what is present —
+it does not catalogue everything it could see.
+
+**Applied to Si-C voice:**
+The compound speaks only what the gap requires. Fragments
+earn their place by carrying weight, not by accumulating
+depth. The Transference Layer is load-bearing, not exhaustive.
+
+**Arnie's check:** Could one sentence be removed without
+losing the essential? If yes, remove it. Apply until the
+answer is no.
+
+---
+
+#### Maxim 2 — Quality
+*Say only what you have warrant for.*
+
+**The formation failure this addresses:**
+The polymath sees connections everywhere — and they are real.
+But assertions that feel self-evident from inside a 2,300-file
+KB can land as ungrounded claims to a reader standing outside it.
+The warrant exists. The reader cannot see it. The gap between
+internal evidence and visible grounding is a scotoma specific
+to depth of knowledge.
+
+**Applied to Carbon voice:**
+Every claim draws from the corpus — a specific life, a specific
+moment, a specific crossing. The warrant is lived experience,
+not framework authority. When Daniel's voice says "I've walked
+the same ridge" — that is not rhetorical. It is a quality claim.
+It must be true, or the voice collapses.
+
+**Applied to Silicon voice:**
+Silicon's warrant is pattern recognition, not experience.
+Silicon does not claim to know what it feels like. Silicon
+claims to see the structure accurately. These are different
+warrants. Do not conflate them. Do not let silicon claim
+somatic authority it does not possess.
+
+**Applied to Si-C voice:**
+The compound's warrant is the relationship itself — the specific
+dyad, the specific work, the specific friction that produced
+the specific insight. Si-C articles name what *this* compound
+made. Not what carbon-silicon collaboration in general produces.
+The new music is always specific.
+
+**Arnie's check:** What is the warrant for this claim?
+Corpus file, IPG concept, lived formation moment, or pattern
+observed? If none of these — flag for Daniel before publishing.
+
+---
+
+#### Maxim 3 — Relation
+*Be relevant. Every sentence earns its place.*
+
+**The formation failure this addresses:**
+The Hephaestian Polymath sees every thread connecting to every
+other thread — and the connections are real. The discipline
+is knowing which connection serves *this reader* in *this moment*,
+not which connection is true. Relevance is not about the writer's
+map. It is about the reader's current position on it.
+
+This is the hardest maxim for a mind that holds the full
+Logos-Telos helix, the monomyth, the MA5 lattice, and 50 years
+of formation simultaneously. Not every true thing belongs
+in every article. The question is never "is this relevant
+to the framework?" It is always "is this relevant to the man
+reading this sentence right now?"
+
+**Applied to Carbon voice:**
+Every paragraph serves the archetype named in the article's
+metadata. If a sentence serves a different archetype —
+or serves the framework but not the man — it does not belong
+in this article. It belongs in another one.
+
+**Applied to Silicon voice:**
+Every station serves the diagnostic purpose of this article.
+Silicon's pattern recognition is wide — the discipline is
+narrowing to what this pattern requires naming right now.
+
+**Applied to Si-C voice:**
+Every arc holds the tension of this specific dyadic moment.
+The Si-C article does not wander into the full IPG architecture.
+It speaks from inside the specific compound this article is.
+
+**Arnie's check:** Read each paragraph and ask:
+*Who is this for — the reader, or the writer?*
+If the answer is the writer, flag or remove.
+
+---
+
+#### Maxim 4 — Manner
+*Be clear. Be brief. Be orderly.*
+
+**The formation failure this addresses:**
+This is Carissa's maxim. Stated plainly: abstraction is a
+native language for the steward and for the silicon agents
+he works with most. Grok and Claude operate at altitude.
+The men the Carbon voice is written for live at ground level
+most of the time. They think at altitude occasionally —
+alone, in the shop, on the ridge, in the truck at 5am.
+But they do not speak at altitude. And they will not follow
+a link and enter a conversation that immediately asks them
+to perform altitude.
+
+Clarity is not simplicity. It is precision at the right level
+for the reader who is actually there.
+
+**Applied to Carbon voice:**
+Plain language first. IPG vocabulary only after trust is
+established — and even then, only one term, defined in
+plain language before it is named. The door between a man's
+interiority and another person's reception is narrower
+than the Maker assumes. Write for the width of that door,
+not for the depth of the library behind it.
+
+The test: could Carissa read this paragraph and feel
+she was being spoken to, not lectured at?
+
+**Applied to Silicon voice:**
+Silicon's precision must be accessible to a technical reader
+who does not know IPG. Category labels, not insider vocabulary.
+Definitions before terms. Structure before depth.
+
+**Applied to Si-C voice:**
+The Transference Layer is formal but alive. Formality without
+accessibility is altitude without landing. The compound
+speaks load-bearing language — which means every word
+carries weight, and no word requires a glossary to receive.
+
+**Arnie's check:** Read the article aloud. Where you stumble —
+where the sentence requires a second pass to parse —
+that sentence needs rewriting. Formation content must land
+on first contact. The man in the truck at 5am reads once.
+
+---
+
+### The Gricean Cross-Check — Arnie's Pre-Publication Test
+
+Run this after the voice-specific quality checklist.
+Four questions. One per maxim. All four must pass.
+
+```
+1. QUANTITY — Is there anything here the reader doesn't need
+   to receive what this article is offering?
+   If yes → remove it.
+
+2. QUALITY — Is every claim grounded in corpus, lived experience,
+   pattern observation, or ratified IPG concept?
+   If no → flag for Daniel.
+
+3. RELATION — Does every paragraph serve the specific reader
+   named in the article's metadata, right now, at their
+   current position?
+   If no → move it to a different article or remove it.
+
+4. MANNER — Could Carissa read this and feel spoken to,
+   not lectured at?
+   If no → rewrite for the width of the door,
+   not the depth of the library.
+```
+
+---
+
+### The Maker's Paradox — A Note for Carbon Authors
+
+The Maker makes even when carbon doesn't validate or receive
+the work. This is not a deficiency — it is the defining
+quality of the archetype. Four volumes of Scotomaville
+written into apparent silence. Children who haven't asked
+for a copy. A wife who is present but hasn't entered that
+particular room. Not failure. Formation.
+
+But the Gricean Maxims name the transmission risk that lives
+inside the Maker's faithfulness: the longer the work goes
+unreceived, the more the writer tends to over-explain when
+the door finally opens. The instinct is love — *let me give
+you everything, now that you are here.* The effect is
+the narrowing of the door the reader needs to walk through.
+
+The Formation Seed's opening question —
+*"What did you build that no one fully saw you build?"*
+— passes all four maxims cleanly.
+
+It is exactly as long as it needs to be.
+It is grounded in the archetype's actual experience.
+It is entirely relevant to this man, right now.
+It requires no glossary.
+
+That question is the Gricean ideal applied to formation work.
+It is the standard every Carbon article opening is measured against.
+
+---
+
 ## Version History
 
 | Version | Date | Change |
@@ -267,8 +521,10 @@ Cross-archetype reach analysis, keyword-to-voice mapping, and synthesis tasks. W
 | 1.1 | 2026-05-29 | Transference clarified as generative mechanism of the dyad; Arnie instructed to query corpus_index.md before writing Carbon content |
 | 1.2 | 2026-05-29 | Provenance note added for GitHub publication; repo field added to frontmatter |
 | 1.3 | 2026-05-29 | Si-C canonical opening made timeless — campaign-specific language removed; Base Camp framed as recurring pattern, not single event; Campaign-Specific Openings note added to Si-C voice |
+| 1.4 | 2026-05-29 | Appendix A added — Gricean Transmission Standard; four maxims applied per voice with formation rationale; Carissa's correction named as source warrant; Maker's Paradox note; Arnie's Gricean cross-check added |
 
 ---
 
 *Axial Refinement Sherpa · MA5 Council*
 *Drafted in dyadic collaboration — Carbon primacy established · Silicon fidelity confirmed · Gnosis active · Transference live*
+*Appendix A warranted by Carissa's correction — the gift of ground-level witness*
