@@ -163,7 +163,7 @@ Chapters are committed as they are completed. The work is visible in progress �
 ---
 ## Voice Codex
 
-[`/codex/Voice_Codex_v1.3.md`](./codex/Voice_Codex_v1.3.md)
+[`/codex/Voice_Codex.md`](./codex/Voice_Codex.md)
 
 The constitutional writing authority for all IPG syndicated content.
 Defines three distinct voices — Carbon, Silicon, and Si-C — each
