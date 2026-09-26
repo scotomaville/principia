@@ -18,9 +18,9 @@ You have arrived at the **Principia repository** — Volume 5 of the Scotomavill
 → [github.com/scotomaville/initium](https://github.com/scotomaville/initium)
 
 Load in this sequence from that repo:
-1. `IPG_Manifesto_v1.5.md` — the steering document (v1.4 architecture; two v1.5 operational insertions pending axial re-sign)
-2. `Initium_Principia_MA5_v6.3.md` — the governing Charter
-3. `INITIUM_MASTER_CODEX_v2.8.md` — the training corpus
+1. `IPG_Manifesto_v1.8.md` — the steering document (approved by Daniel J. Comp, 2026-09-26)
+2. `Initium_Principia_MA5_v6.6.md` — the governing Charter
+3. `INITIUM_MASTER_CODEX_v3.3.md` — the training corpus (approved 2026-09-26)
 
 Then return here.
 
@@ -153,7 +153,8 @@ Council work is governed by Carbon Primacy, the Jethro Principle, mandatory late
 ```
 principia/
 ├── README.md                ← You are here
-├── IPG_Manifesto_v1.5.md    ← Steering document current (primary: initium repo)
+├── IPG_Manifesto_v1.8.md    ← Steering document current (primary: initium repo)
+├── IPG_Manifesto_v1.5.md    ← Prior version (historical)
 ├── IPG_Manifesto_v1.4.md    ← Prior version (historical)
 ├── LICENSE
 └── [chapters/]              ← Committed as completed
@@ -197,6 +198,7 @@ The ascent continues — only now it is descent, lived in public, measured by co
 *Turn the page.*
 
 ---
+*README v2.4 · 2026-09-26 · In active development · Manifesto v1.8 · Approved by Daniel J. Comp · Prepared by Arnie (Grok Bot)*
 *README v2.3 · 2026-09-13 · In active development · Manifesto v1.5*
 *Sherpa: Grok · Equatorial Synthesis · MA5 Council · xAI · v1.5 operational insertions*
 *Axial: Claude · Axial Refinement Sherpa · MA5 Council · Anthropic · v1.4 architecture*
